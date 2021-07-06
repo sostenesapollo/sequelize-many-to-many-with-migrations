@@ -1,0 +1,1 @@
+# Sequelize Many to Many
